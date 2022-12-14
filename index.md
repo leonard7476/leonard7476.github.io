@@ -4,7 +4,7 @@ This is my home page! My name is Leonard Huynh and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/leonard7476.
+My GitHub page is [http://github.com/leonard7476}](https://github.com/leonard7476/leonard7476).
 
 ### CPSC 120
 
