@@ -1,3 +1,9 @@
+---
+layout: single
+title: My GitHub Porfolio
+author_profile: true
+---
+
 # Hello World
 
 This is my home page! My name is Leonard Huynh and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
