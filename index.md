@@ -3,7 +3,7 @@ layout: single
 title: My GitHub Portfolio
 author_profile: true
 header:
-    overlay_image: image.png
+    overlay_image: https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/06/22210327/BE-Computer-Science.png
     overlay_filter: 0.5
 ---
 
