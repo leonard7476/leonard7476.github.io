@@ -3,7 +3,7 @@ layout: single
 title: My GitHub Portfolio
 author_profile: true
 header:
-    overlay_image: 
+    overlay_image: image.png
     overlay_filter: 0.5
 ---
 
